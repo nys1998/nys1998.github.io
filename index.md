@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+In this blog, I share my knowledge of condensed matter theory and density functional theory, in particular as implemented in Quantum ESPRESSO. I would also share my random thoughts on my PhD journey.
